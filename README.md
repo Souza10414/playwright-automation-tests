@@ -12,9 +12,18 @@ Automação de testes:
 
 ✅ Playwright 
 ✅ JavaScript 
-✅ Testes de login
+✅ Testes de login / Login válido / Login com senha inválida / Login com campos vazios
 ✅ Estrutura de projeto
 ✅ Page Object Model 
 ✅ Execução e relatório de testes
+
+Comando para rodar os testes e gerar relatório:
+
+Para rodar os testes: npx playwright test - 
+Gerar relatório: npx playwright show-report - 
+Viualizar os testes em execução: npx playwright test --headed -
+
+
+
 
 
